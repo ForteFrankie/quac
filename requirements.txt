@@ -20,7 +20,7 @@ python-daemon-3K==1.5.8
 python-dateutil==2.4.2
 python-hostlist==1.14
 pytz==2015.7
-requests==2.9.1
+requests==2.31.0
 requests-oauthlib==0.6.0
 scikit-learn==0.17
 scipy==0.16.1
